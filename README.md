@@ -1,7 +1,7 @@
 # muzovkantV2
 ### shitty (half-)vibecoded discord bot
 ## overall
-you can use this as a base for your discord bot, writing your own [cogs](/cogs/), or as is, *which is a questionable decision*
+you can use this as a base for your discord bot, writing your own [cogs](/cogs/), or as is.
 
 
 ## installation
