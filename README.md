@@ -10,7 +10,7 @@ firstly, clone the repo
 git clone https://github.com/rejnronuzz/muzovkantv2.git
 cd muzovkantv2
 ```
-then insert your discord bot and your [thecatapi](https://thecatapi.com) token into the .env file.
+then insert your discord bot and [thecatapi](https://thecatapi.com) token into the .env file.
 it should look something like this:
 ```
 DISCORD_TOKEN=abc123abc
