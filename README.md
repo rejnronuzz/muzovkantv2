@@ -6,12 +6,12 @@ you can use this as a base for your discord bot, writing your own [cogs](/cogs/)
 
 ## installation
 1. clone the repo
-```
+```bash
 git clone https://github.com/rejnronuzz/muzovkantv2.git
 cd muzovkantv2
 ```
 2. install the requirements
-```
+```bash
 pip install -r requirements.txt
 ```
 3. insert your discord bot token and [thecatapi](https://thecatapi.com) token into the .env file.
