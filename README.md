@@ -13,6 +13,11 @@ cd muzovkantv2
 2. install the requirements
 ```bash
 pip install -r requirements.txt
+
+# you can also do it in a venv:
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 ```
 3. insert your discord bot token and [thecatapi](https://thecatapi.com) token into the .env file.
 *it should look something like this:*
