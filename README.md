@@ -20,7 +20,7 @@ pip install -r requirements.txt
 DISCORD_TOKEN=abc123abc
 CAT_API_KEY=live_abc123abc
 ```
-you can then edit the config.py to your liking.
+you can then edit the [config.py](/config.py) to your liking.
 
 ## contacting
 if you have any feedback, contact me on github issues or/and discord. if you want to add any functions to this bot, make a PR.
