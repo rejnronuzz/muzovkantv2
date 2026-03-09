@@ -27,5 +27,6 @@ wheels/
 .idea/
 *.swp
 *.swo
+*.db
 
 *.log

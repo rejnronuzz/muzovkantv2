@@ -83,6 +83,9 @@ class FunchosaParser(commands.Cog):
     async def cog_load(self):
         await self.db.init_db()
         logger.info("FunchosaParser initialized")
+        asyncio.ensure_future(self._startup())
+
+    async def _startup(self):
         await self.bot.wait_until_ready()
         await self.auto_parse_on_startup()
 
